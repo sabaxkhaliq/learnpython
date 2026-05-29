@@ -23,6 +23,12 @@ def division(first , second):
         print ("The Second input is Not Valid")
 
 
+def modulus(first , second): 
+    if second != 0 :
+        reminder = first % second
+        print("Modulus of the Numbers is :: ", reminder)
+    else:
+        print ("The Second input is Not Valid")
 
 
 def main():
