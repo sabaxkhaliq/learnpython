@@ -1,0 +1,28 @@
+{
+    "contacts": [
+        {
+            "name": "Zara",
+            "phone": "03001234567"
+        },
+        {
+            "name": "Fahad",
+            "phone": "03111234567"
+        },
+        {
+            "name": "Fatima",
+            "phone": "0306 7895426"
+        },
+        {
+            "name": "Eman",
+            "phone": "0307 5694236"
+        },
+        {
+            "name": "Izah",
+            "phone": "0335 7394592"
+        },
+        {
+            "name": "Sarah",
+            "phone": "0327 4635291"
+        }
+    ]
+}
